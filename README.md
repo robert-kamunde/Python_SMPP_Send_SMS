@@ -4,7 +4,7 @@ This is a Python script for sending SMS using the SMPP (Short Message Peer-to-Pe
 <p><b>Prerequisites</b></p>
 Before using this script, you need to have the following:
 
-<p><b>Access to an SMSC that supports the SMPP protocol
+Access to an SMSC that supports the SMPP protocol
 A username and password to authenticate your SMPP client with the SMSC
 A sender ID that is whitelisted under your account by the SMSC serving you
 Destination phone numbers (in international format) for the SMS recipients
