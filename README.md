@@ -1,4 +1,4 @@
-#Sending SMS using SMPP protocol
+<b>Sending SMS using SMPP protocol</b>
 This is a Python script for sending SMS using the SMPP (Short Message Peer-to-Peer) protocol. It uses the smpplib library to communicate with an SMSC (Short Message Service Center) to send SMS messages.
 
 #Prerequisites
