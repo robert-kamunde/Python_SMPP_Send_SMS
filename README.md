@@ -8,7 +8,8 @@ Access to an SMSC that supports the SMPP protocol
 A username and password to authenticate your SMPP client with the SMSC
 A sender ID that is whitelisted under your account by the SMSC serving you
 Destination phone numbers (in international format) for the SMS recipients
-Installation
+
+<p><b>Installation</b></p>
 To use this script, you need to install the smpplib library:
 
 <p><b>Usage</b></p>
